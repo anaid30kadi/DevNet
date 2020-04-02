@@ -4,7 +4,6 @@
 import math
 import random
 
-
 # TODO: Write a print statement that displays both the type and value of `pi`
 pi = math.pi
 print ("El valor de pi es:", pi) #Method 1
@@ -46,7 +45,6 @@ def multiplier (num1,num2):
     return result
 
 print ("The ramdom multiplier result is:", multiplier (i,n))
-
 
 # TODO: Now call the function a few times to calculate the following answers
 
